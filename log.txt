@@ -1,0 +1,4 @@
+MaxCorCCI:-0.34770311845214336
+MaxCorCCIWords:['prosper', 'pollution', 'colony', 'partnership', 'partner', 'lucrative', 'hustler', 'charitable', 'patronage', 'bargain']
+MaxCorVix:0.4718516500633989
+
